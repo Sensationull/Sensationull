@@ -2,7 +2,6 @@
 
 I am a Frontend Software Engineer with experience in Javascript: (React, Redux, Node) and have way more fun debugging CSS than people recommend.  I'm always looking to learn about other cultures and their experiences with code! When I'm not coding (and often when I am), I am listening to all different kinds of music or outside getting some sun!
 
-📫 You can reach me on linkedIn at: https://www.linkedin.com/in/andrewjohnso17/
 
 <!--
 **Sensationull/Sensationull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
